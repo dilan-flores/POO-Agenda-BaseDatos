@@ -15,3 +15,8 @@ Creación de conexión con base de datos e implementación de opción para busca
 
 ![ActualizaID](https://user-images.githubusercontent.com/117755180/217369376-6775ed37-8823-4519-94f6-9224bc80b977.png)
 
+# Base de datos
+
+![BaseDatos](https://user-images.githubusercontent.com/117755180/217377556-84202315-f0b5-4f78-9037-74dda95ea1e2.png)
+
+
